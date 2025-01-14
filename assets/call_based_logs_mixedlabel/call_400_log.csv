@@ -1,0 +1,40 @@
+Start Time (s),End Time (s),Text,Speaker,file_name,flow_label
+0.76,3.54," 9-1-1, this call is recorded. Where is your emergency?",Speaker 0,call_400.mp3,Call Introduction
+4.0,5.52," Do you have an emergency, sir?",Speaker 0,call_400.mp3,Description
+5.76,7.34," Yes, it's area 617.",Speaker 0,call_400.mp3,Description
+7.64,8.52," All right, what's your emergency?",Speaker 0,call_400.mp3,Description
+9.3,11.78, A child has been left on my doorstep.,Speaker 0,call_400.mp3,Description
+13.36,14.62," Okay, what's your address?",Speaker 0,call_400.mp3,Description
+15.0,15.86, It's 9...,Speaker 1,call_400.mp3,Description
+18.62,21.06," Okay, how old is this child?",Speaker 0,call_400.mp3,Description
+21.06,22.26," Newton, Lower Falls.",Speaker 0,call_400.mp3,Description
+22.48,23.62," Okay, how old is the child?",Speaker 0,call_400.mp3,Description
+24.24,26.36, It fits in a small basket.,Speaker 0,call_400.mp3,Description
+27.02,28.14, You would say a baby?,Speaker 0,call_400.mp3,Description
+28.58,29.3, Pay pardon?,Speaker 0,call_400.mp3,Description
+29.3,30.0, A baby?,Speaker 0,call_400.mp3,Description
+30.5,31.56," It's a baby, yes.",Speaker 0,call_400.mp3,Description
+31.86,34.7," Okay, when did you find, when did you notice this?",Speaker 0,call_400.mp3,Description
+34.92,39.3," I just went out to check the temperature outside before I went on an errand,",Speaker 0,call_400.mp3,Description
+39.4,44.84, and there was this bassinet with the child in it and a little note.,Speaker 0,call_400.mp3,Description
+45.08,46.38, And what does the note say?,Speaker 0,call_400.mp3,Description
+46.68,49.38," The note says, please take good care of this child.",Speaker 0,call_400.mp3,Description
+55.5,58.68," All right, is the baby?",Speaker 0,call_400.mp3,Description
+59.3,60.06, It's a baby.,Speaker 0,call_400.mp3,Description
+60.3,61.76," All right, is it breathing at all?",Speaker 0,call_400.mp3,Description
+62.02,62.58, Pay pardon?,Speaker 0,call_400.mp3,Description
+62.8,64.06, The baby is breathing.,Speaker 0,call_400.mp3,Description
+64.36,68.34," I'm sorry, I still can't understand you.",Speaker 0,call_400.mp3,Description
+69.44,70.86, Is the baby breathing?,Speaker 0,call_400.mp3,Description
+71.54,72.46," Yes, it's breathing.",Speaker 0,call_400.mp3,Description
+73.96,75.36," What's your phone number there, sir?",Speaker 0,call_400.mp3,Description
+75.7,77.26, It's area 617.,Speaker 0,call_400.mp3,Description
+77.7,80.32," All right, I'm going to send an officer over right away.",Speaker 0,call_400.mp3,Resolution
+80.42,81.98, Did you bring the baby inside?,Speaker 0,call_400.mp3,Description
+82.36,83.28, I brought the baby inside.,Speaker 0,call_400.mp3,Resolution
+83.42,84.6," Okay, are you there by yourself?",Speaker 0,call_400.mp3,Description
+84.96,86.7," No, my wife is here, but she's ill.",Speaker 0,call_400.mp3,Description
+86.86,88.34," Okay, we'll be right there.",Speaker 0,call_400.mp3,Resolution
+88.52,89.02, Thank you.,Unknown,call_400.mp3,Call Deposition
+89.3,90.16," Okay, bye-bye.",Unknown,call_400.mp3,Call Deposition
+90.26,90.64, Bye-bye.,Unknown,call_400.mp3,Call Deposition

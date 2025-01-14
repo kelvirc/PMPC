@@ -1,0 +1,79 @@
+Start Time (s),End Time (s),Text,Speaker,file_name,flow_label
+0.4000000000000014,1.62," Get me here, get me here.",Speaker 0,call_115.mp3,Call Introduction
+1.64,3.0," 911, what is it looking at me for?",Speaker 0,call_115.mp3,Description
+3.0,6.8," Hey, hey, I need a sheriff and I have them in the corner of Reef and Wymas.",Speaker 1,call_115.mp3,Description
+7.16,8.78," Reef and Wymas, what's going on there?",Speaker 0,call_115.mp3,Description
+9.04,12.04," I got three pit bulls attacking people, attacking kids.",Speaker 1,call_115.mp3,Description
+12.32,13.28, They're attacking kids?,Speaker 0,call_115.mp3,Description
+13.66,14.16," Yes, sir.",Speaker 1,call_115.mp3,Description
+15.580000000000002,19.0," Okay, is there any way you can get the animals away from them?",Speaker 0,call_115.mp3,Description
+19.24,22.28," No, they have four guys in the back, they're trying to swim away.",Speaker 1,call_115.mp3,Description
+22.6,24.82," I got this kid who was badly, badly injured.",Speaker 1,call_115.mp3,Description
+27.6,28.62, How old are the kids?,Speaker 0,call_115.mp3,Description
+28.62,30.18," I have no idea, man.",Speaker 0,call_115.mp3,Description
+30.7,33.1," Okay, are they like teenagers, are they little kids?",Speaker 0,call_115.mp3,Description
+33.34,35.28," They're little kids, they're 10, 12 years old.",Speaker 1,call_115.mp3,Description
+35.28,35.58, Like toddlers?,Speaker 1,call_115.mp3,Description
+36.36,36.72, Yes.,Speaker 1,call_115.mp3,Description
+43.24,44.64," Hey, come back, hey, come back.",Speaker 1,call_115.mp3,Description
+44.86,45.72," You got to stay here, bud.",Speaker 1,call_115.mp3,Call Deposition
+46.12,47.04, You got to stay here.,Speaker 1,call_115.mp3,Call Deposition
+47.1,47.92," I know, I know.",Speaker 1,call_115.mp3,Description
+48.62,51.02," I know it hurts, my man, I know it hurts.",Speaker 1,call_115.mp3,Description
+51.54,53.26," Hey, I'm getting help over here, okay?",Speaker 1,call_115.mp3,Description
+53.66,55.16," How many kids are injured, sir?",Speaker 1,call_115.mp3,Description
+55.34,56.48," It's one kid, it's one kid.",Speaker 0,call_115.mp3,Description
+56.6,57.5, Do you have an ambulance coming?,Speaker 0,call_115.mp3,Description
+57.72,58.6," Yes, we're getting an ambulance.",Speaker 1,call_115.mp3,Resolution
+58.62,59.34, We're getting an ambulance on the way.,Speaker 1,call_115.mp3,Resolution
+59.56,60.32," Okay, good deal.",Speaker 1,call_115.mp3,Resolution
+60.58,62.04," I know, man, I know it hurts, bro.",Speaker 1,call_115.mp3,Description
+62.12,63.04," I know, I know, man.",Speaker 1,call_115.mp3,Description
+63.3,64.3, You got to stay here.,Speaker 1,call_115.mp3,Description
+64.64,65.16, I know.,Speaker 1,call_115.mp3,Description
+66.2,66.76, That's all right.,Speaker 1,call_115.mp3,Description
+66.76,68.0, Where is the pit bull right now?,Speaker 1,call_115.mp3,Description
+68.6,72.12," They're picking off, um, yeah, I got him.",Speaker 1,call_115.mp3,Description
+72.52000000000001,73.74, They're trying to pick him off.,Speaker 1,call_115.mp3,Description
+75.0,77.44, It's like there's a local sheriff's house right here.,Speaker 1,call_115.mp3,Description
+77.80000000000001,79.42," So they're on the road with him somewhere, man.",Speaker 1,call_115.mp3,Description
+82.76,84.46, Is that the child I'm hearing in the background?,Speaker 1,call_115.mp3,Description
+84.64,85.98," Yeah, yeah, yeah, it is, man.",Speaker 0,call_115.mp3,Description
+86.32,86.7, He's okay.,Speaker 0,call_115.mp3,Resolution
+86.7,88.6," Okay, all right, let me, sir, let me get Salty.",Speaker 0,call_115.mp3,Description
+88.6,88.6,,Speaker 0,call_115.mp3,No Voice Detected
+88.6,88.6,,Speaker 0,call_115.mp3,No Voice Detected
+88.6,88.6,,Speaker 0,call_115.mp3,No Voice Detected
+88.6,88.6,,Speaker 0,call_115.mp3,No Voice Detected
+88.6,88.6,,Speaker 0,call_115.mp3,No Voice Detected
+88.6,88.6,,Speaker 0,call_115.mp3,No Voice Detected
+88.6,88.6,,Speaker 0,call_115.mp3,No Voice Detected
+88.6,88.6,,Speaker 0,call_115.mp3,No Voice Detected
+88.6,88.6,,Speaker 0,call_115.mp3,No Voice Detected
+88.6,90.1," Okay, I'll put the ambulance on the line with us, okay?",Speaker 0,call_115.mp3,Resolution
+90.18,90.84, Stay on the line.,Speaker 1,call_115.mp3,Resolution
+90.88,91.3, Don't hang up.,Speaker 1,call_115.mp3,Description
+96.04,96.96," Oh, my God.",Speaker 1,call_115.mp3,Description
+97.24,97.94," No, you're not, man.",Speaker 1,call_115.mp3,Description
+98.02,98.72," You're not, you're not.",Speaker 1,call_115.mp3,Description
+98.98,99.44, You're not.,Speaker 1,call_115.mp3,Description
+99.86,100.92," No, thank you, sir.",Speaker 1,call_115.mp3,Call Deposition
+101.06,101.8, I got you.,Unknown,call_115.mp3,Call Introduction
+101.96,102.32, That's all right.,Unknown,call_115.mp3,Call Deposition
+102.38,102.38,,Unknown,call_115.mp3,No Voice Detected
+102.38,102.38,,Unknown,call_115.mp3,No Voice Detected
+102.38,102.38,,Unknown,call_115.mp3,No Voice Detected
+102.38,102.38,,Unknown,call_115.mp3,No Voice Detected
+102.38,102.38,,Unknown,call_115.mp3,No Voice Detected
+102.38,102.38,,Unknown,call_115.mp3,No Voice Detected
+102.38,102.38,,Unknown,call_115.mp3,No Voice Detected
+102.38,102.38,,Unknown,call_115.mp3,No Voice Detected
+102.38,102.38,,Unknown,call_115.mp3,No Voice Detected
+102.38,102.38,,Unknown,call_115.mp3,No Voice Detected
+102.38,102.38,,Unknown,call_115.mp3,No Voice Detected
+102.38,102.38,,Unknown,call_115.mp3,No Voice Detected
+102.38,102.38,,Unknown,call_115.mp3,No Voice Detected
+102.38,102.38,,Unknown,call_115.mp3,No Voice Detected
+102.38,102.38,,Unknown,call_115.mp3,No Voice Detected
+102.38,102.38,,Unknown,call_115.mp3,No Voice Detected
+102.38,102.38,,Unknown,call_115.mp3,No Voice Detected

@@ -1,0 +1,82 @@
+Start Time (s),End Time (s),Text,Speaker,file_name,flow_label
+5.599999999999999,8.26, Pick up coming 911. What is your emergency?,Speaker 0,call_16.mp3,Call Introduction
+9.3,10.78, Ambulance or police officer one.,Speaker 0,call_16.mp3,Description
+12.14,14.54," OK, you need a police officer, yeah?",Speaker 0,call_16.mp3,Description
+15.24,16.34, What's that reserve?,Speaker 1,call_16.mp3,Description
+17.88,23.32," 118 CC. OK, 118. Yeah.",Speaker 0,call_16.mp3,Description
+31.620000000000005,34.52, Hold on just one second. Did you also say you needed an ambulance?,Speaker 0,call_16.mp3,Description
+34.98,37.62," Yes, we have a woman here. I don't know if she's breathing or not.",Speaker 0,call_16.mp3,Description
+38.64,39.42," Yeah, they're coming.",Speaker 0,call_16.mp3,Description
+40.36,43.06, And you're at 118 C at the reserve.,Speaker 0,call_16.mp3,Description
+43.620000000000005,45.26," 118 CC, Charlie Charlie.",Speaker 0,call_16.mp3,Description
+45.86,46.26, OK.,Speaker 0,call_16.mp3,Resolution
+47.8,49.3, I want a phone to call my mom.,Speaker 1,call_16.mp3,Description
+49.3,50.44, You can't talk to her.,Speaker 0,call_16.mp3,Description
+50.62,52.24, I just want to get my phone to call my mom.,Speaker 0,call_16.mp3,Description
+52.44,54.3, You won't know with fingerprints on her stuff.,Speaker 0,call_16.mp3,Description
+56.8,57.2, OK.,Speaker 0,call_16.mp3,Description
+57.6,58.94, Is the patient breathing?,Speaker 0,call_16.mp3,Description
+58.94,63.0, No. It appears like there's a sexual crime.,Speaker 0,call_16.mp3,Description
+63.74000000000001,65.42," OK, is anyone doing CPR?",Speaker 0,call_16.mp3,Description
+66.08,67.14," No, she's blue.",Speaker 0,call_16.mp3,Description
+67.62,68.06, OK.,Speaker 0,call_16.mp3,Resolution
+68.6,69.68," She's very, she's pretty cold.",Speaker 0,call_16.mp3,Description
+70.02,72.46," OK, all right. Hang on the line with me, OK?",Speaker 0,call_16.mp3,Description
+72.82,73.26, Yep.,Speaker 0,call_16.mp3,Description
+91.14,92.3, I don't know where her phone is.,Speaker 0,call_16.mp3,Description
+93.04000000000002,94.56, You don't know where her phone is.,Speaker 0,call_16.mp3,Description
+95.72,96.18, I don't know.,Speaker 0,call_16.mp3,Description
+97.02,98.14, I don't know.,Speaker 0,call_16.mp3,Description
+98.14,100.22, Hold on there.,Speaker 0,call_16.mp3,Call Introduction
+108.62,109.34, Are they coming?,Speaker 0,call_16.mp3,Description
+109.7,111.38," Yes, they're on our way. Come on, let's go outside.",Speaker 0,call_16.mp3,Resolution
+111.78,112.58," Come on, let's go outside.",Speaker 0,call_16.mp3,Description
+116.04,118.8," OK, is the right of name Reserve Boulevard?",Speaker 1,call_16.mp3,Description
+118.8,124.98," No, the reserve. The student reserve where all the kids live, right next to University Village.",Speaker 1,call_16.mp3,Description
+125.62,127.58, Next to University Village? OK.,Speaker 1,call_16.mp3,Description
+127.66,128.22," Yes, the reserve.",Speaker 1,call_16.mp3,Description
+128.52,128.84, OK.,Speaker 1,call_16.mp3,Description
+129.96,130.88, What's your name?,Speaker 1,call_16.mp3,Description
+133.66,135.0, Do you know this lady?,Speaker 0,call_16.mp3,Description
+135.32,135.84, Yes.,Speaker 0,call_16.mp3,Description
+136.04,137.04," OK, what's her name?",Speaker 0,call_16.mp3,Description
+138.33999999999995,139.38, Tiffany Sowers.,Speaker 0,call_16.mp3,Description
+142.54,144.58, Do you know how she spells her last name?,Speaker 0,call_16.mp3,Description
+145.1,146.72, S-O-U-R-E-S.,Speaker 0,call_16.mp3,Description
+147.08,148.42, S-O-U-R-E-S.,Speaker 0,call_16.mp3,Description
+148.8,151.16, Stand by. S-O-U-E-R-S.,Speaker 0,call_16.mp3,Description
+151.28,153.66, S-O-U-E-R-S.,Speaker 1,call_16.mp3,Description
+153.74,153.74,,Speaker 0,call_16.mp3,No Voice Detected
+153.74,155.76," OK, how old is she, do you know?",Speaker 0,call_16.mp3,Description
+156.32,157.48, 19 years old.,Speaker 0,call_16.mp3,Description
+158.44,159.82, 20 years old.,Speaker 0,call_16.mp3,Description
+163.45999999999998,167.0," OK, does somebody live with her?",Speaker 0,call_16.mp3,Description
+175.68,177.36," OK, so we're going to get up.",Unknown,call_16.mp3,Description
+177.4,178.78, The medics have been notified on the phone.,Unknown,call_16.mp3,Description
+178.8,180.34, We've also notified Central PD.,Unknown,call_16.mp3,Description
+181.06,181.62, Thank you.,Unknown,call_16.mp3,Call Deposition
+181.74,182.7," OK, is your...",Unknown,call_16.mp3,Description
+182.7,187.5," And you and this girl just walked in and found her, is that right?",Unknown,call_16.mp3,Description
+187.92,188.84," I'm sorry, say again?",Unknown,call_16.mp3,Description
+189.12,190.82," OK, who's the lady with you?",Unknown,call_16.mp3,Description
+190.82,192.58, A driver just walked in and found her like this?,Unknown,call_16.mp3,Description
+192.96,193.26, Yes.,Unknown,call_16.mp3,Description
+193.48,195.02," OK, where is she at in the house?",Unknown,call_16.mp3,Description
+195.34,196.12, She's in her bedroom.,Unknown,call_16.mp3,Description
+196.32,197.74, She's in the bedroom? OK.,Unknown,call_16.mp3,Description
+218.5,219.86, What's going on?,Unknown,call_16.mp3,Description
+220.54,224.58, You'd say that there is something wrong?,Unknown,call_16.mp3,Description
+224.8,225.56, Yes I know!,Unknown,call_16.mp3,Description
+225.56,227.72," OK, do you know what's going on?",Unknown,call_16.mp3,Description
+227.72,227.72,,Unknown,call_16.mp3,No Voice Detected
+227.72,227.72,,Unknown,call_16.mp3,No Voice Detected
+227.72,228.6, Where are you?,Unknown,call_16.mp3,Description
+230.02,232.26, What is going on?,Unknown,call_16.mp3,Description
+232.84,233.96, Hey.,Unknown,call_16.mp3,Description
+237.62,238.74, What is going on?,Unknown,call_16.mp3,Description
+238.74,238.78, Can they still see me?,Unknown,call_16.mp3,Description
+238.78,238.78,,Unknown,call_16.mp3,No Voice Detected
+238.78,238.78,,Unknown,call_16.mp3,No Voice Detected
+239.76,242.5," Okay, sir. Central PD and the medics are on the way, okay?",Unknown,call_16.mp3,Resolution
+243.02,243.94," Okay, thank you.",Unknown,call_16.mp3,Call Deposition
+244.06,244.92, You're welcome.,Unknown,call_16.mp3,Call Deposition

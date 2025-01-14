@@ -1,0 +1,161 @@
+Start Time (s),End Time (s),Text,Speaker,file_name,flow_label
+0.5999999999999934,2.24," Hi, Row 911, where is your emergency?",Speaker 1,call_42.mp3,Call Introduction
+2.78,3.84," Yeah, this is Icum.",Speaker 0,call_42.mp3,Description
+3.94,9.7," I had a little girl that fell on the boat, and I think she's unconscious right now.",Speaker 0,call_42.mp3,Description
+9.78,10.36," Okay, what address?",Speaker 0,call_42.mp3,Description
+11.539999999999988,14.22, It's 8826 East Florida Avenue.,Speaker 1,call_42.mp3,Description
+14.76,16.26," Okay, what city are you in?",Speaker 1,call_42.mp3,Description
+16.48,17.34," Denver, Colorado.",Speaker 1,call_42.mp3,Description
+17.72,19.1," Okay, let me get you in touch with Denver.",Speaker 1,call_42.mp3,Description
+19.18,20.14," Do not hang up, okay?",Speaker 1,call_42.mp3,Description
+20.2,20.88, Hold on one moment.,Speaker 0,call_42.mp3,Call Introduction
+20.98,22.1," No, no, no, I will stay on the phone.",Speaker 0,call_42.mp3,Description
+22.14,22.58," Okay, hold on.",Speaker 0,call_42.mp3,Call Introduction
+31.72,33.36," I call 911, okay?",Speaker 1,call_42.mp3,Call Introduction
+35.36,36.96," I call 911, okay?",Speaker 1,call_42.mp3,Call Introduction
+37.08,39.5," Denver 911, Agent 74, how may I help you?",Speaker 1,call_42.mp3,Call Introduction
+39.6,40.76," Hi, this is Diva with Aurora.",Speaker 1,call_42.mp3,Call Introduction
+40.96,43.66, I've got a lady on the phone who might possibly have an unconscious child.,Speaker 0,call_42.mp3,Description
+44.92,47.54," 8826 East Florida Avenue, is that going to be yours?",Speaker 0,call_42.mp3,Description
+48.5,49.3, East Florida?,Speaker 0,call_42.mp3,Description
+49.52,49.86, Uh-huh.,Speaker 1,call_42.mp3,Description
+49.92,50.46, What do we do?,Speaker 1,call_42.mp3,Description
+50.54,52.68, Is there anything we can do that will help her?,Speaker 1,call_42.mp3,Description
+52.9,54.34, Is the child breathing?,Speaker 0,call_42.mp3,Description
+55.3,56.72," Yeah, she's 12 years.",Speaker 0,call_42.mp3,Description
+56.78,57.6, She's not breathing.,Speaker 1,call_42.mp3,Description
+57.6,58.66, She's not doing anything.,Speaker 1,call_42.mp3,Description
+58.66,59.58, She is not breathing?,Speaker 1,call_42.mp3,Description
+59.72,59.84, Yes.,Speaker 1,call_42.mp3,Description
+60.26,61.3, She's not doing anything.,Speaker 1,call_42.mp3,Description
+61.7,62.02, Okay.,Speaker 1,call_42.mp3,Description
+62.08,63.14, We got her out of the pool.,Speaker 1,call_42.mp3,Resolution
+63.26,65.66," She's laying here, but she's not doing anything.",Speaker 1,call_42.mp3,Description
+66.16,66.48, Okay.,Speaker 1,call_42.mp3,Call Deposition
+67.2,68.1, I'm going to wrap up this call now.,Speaker 1,call_42.mp3,Call Deposition
+68.14,68.78," All right, thank you.",Speaker 1,call_42.mp3,Call Deposition
+68.84,69.1, Uh-huh.,Speaker 1,call_42.mp3,Call Deposition
+69.12,69.3, Bye.,Speaker 1,call_42.mp3,Call Deposition
+70.34,71.12," Hold on, ma'am.",Speaker 1,call_42.mp3,Call Introduction
+71.14,72.06, I'm getting some help for you.,Speaker 1,call_42.mp3,Description
+72.1,72.42, Hold on.,Speaker 1,call_42.mp3,Call Deposition
+73.48,73.9, I'm getting...,Speaker 1,call_42.mp3,Description
+73.9,74.6," Breathing, you said?",Speaker 1,call_42.mp3,Description
+77.30000000000001,79.08," Ma'am, is she not breathing?",Speaker 1,call_42.mp3,Description
+79.92,80.24, No.,Speaker 1,call_42.mp3,Description
+80.46,80.78, Okay.,Speaker 1,call_42.mp3,Description
+81.02,81.82, What I want for...,Speaker 1,call_42.mp3,Description
+81.82,82.62, Is she out of the pool?,Speaker 1,call_42.mp3,Description
+83.26,84.54," Yes, she's out of the pool.",Speaker 1,call_42.mp3,Description
+84.6,86.9," Okay, I need for you to lay her on her back.",Speaker 1,call_42.mp3,Description
+87.46000000000001,88.0, We did.,Speaker 0,call_42.mp3,Description
+88.16,89.46, We laid her on the...,Speaker 0,call_42.mp3,Description
+89.46,89.58, Okay.,Speaker 0,call_42.mp3,Description
+89.58,89.72, Okay.,Speaker 0,call_42.mp3,Description
+89.86,92.1, What I need for you to do is to take one...,Speaker 0,call_42.mp3,Description
+92.1,92.98, Is she on a flat surface?,Speaker 1,call_42.mp3,Description
+93.56,94.84," Yeah, she is on the flat.",Speaker 1,call_42.mp3,Description
+94.9,94.98, Okay.,Speaker 1,call_42.mp3,Description
+94.98,96.54, Don't put anything underneath her head.,Speaker 1,call_42.mp3,Description
+97.52,100.02, I need you to place one of your hands on the child's forehead.,Speaker 1,call_42.mp3,Description
+101.26,102.4, And the fingertips...,Speaker 1,call_42.mp3,Description
+102.4,104.54, Don't put your hand on her forehead.,Speaker 1,call_42.mp3,Description
+104.74,105.56, That's what she said.,Speaker 1,call_42.mp3,Description
+107.2,108.08," Okay, ma'am.",Speaker 0,call_42.mp3,Description
+109.32,109.72, Huh?,Speaker 0,call_42.mp3,Description
+109.94,112.76," Ma'am, I'm going to give you instructions to help her breathe, okay?",Speaker 0,call_42.mp3,Description
+113.42,115.22, I don't think I can do it.,Speaker 0,call_42.mp3,Description
+115.22,117.78," Okay, is there somebody else there that can?",Speaker 1,call_42.mp3,Description
+118.44,119.56, I can give you instructions.,Speaker 1,call_42.mp3,Description
+119.56,120.66, I can give you instructions for CPR.,Speaker 1,call_42.mp3,Description
+121.06,122.66, Can somebody else do the CPR?,Speaker 1,call_42.mp3,Description
+123.02,123.8, I can do the CPR.,Speaker 1,call_42.mp3,Description
+128.2,131.38," I'm the only one here, and there's a little child only.",Speaker 1,call_42.mp3,Description
+132.28000000000003,133.6, And she's my neighbor.,Speaker 1,call_42.mp3,Description
+134.4,135.56," Okay, can you...",Speaker 0,call_42.mp3,Description
+135.56,137.84, Can I help you do CPR on her?,Speaker 0,call_42.mp3,Description
+138.1,141.02, Or is there somebody else that you can give the phone to that can?,Speaker 0,call_42.mp3,Description
+142.42000000000002,143.6, I don't see nobody.,Speaker 1,call_42.mp3,Description
+144.16,145.1," Okay, who's with you?",Speaker 1,call_42.mp3,Description
+145.78000000000003,146.9, A little child.,Speaker 1,call_42.mp3,Description
+147.22,149.28," Okay, can you do the CPR, ma'am?",Speaker 1,call_42.mp3,Description
+149.56,150.4, I cannot.,Speaker 1,call_42.mp3,Description
+150.64,151.36, I'm telling you everything.,Speaker 1,call_42.mp3,Description
+151.48,153.06," Okay, okay, okay, that's fine.",Speaker 1,call_42.mp3,Description
+153.2,154.54, We were getting help on the way.,Speaker 1,call_42.mp3,Description
+154.62,156.04, Do you know how long she was in the water?,Speaker 1,call_42.mp3,Description
+156.4,157.52, I have no idea.,Speaker 1,call_42.mp3,Description
+157.64,160.9," This child just came screaming, and I just got out of my bed.",Speaker 1,call_42.mp3,Description
+161.14,162.36," And she was like, help, help.",Speaker 0,call_42.mp3,Description
+162.46,164.24, I have no idea what was going on.,Speaker 0,call_42.mp3,Description
+164.46,167.92," Okay, so you don't know how long, but she is outside the pool right now, right?",Speaker 0,call_42.mp3,Description
+168.1,169.08, She's outside the pool.,Speaker 0,call_42.mp3,Description
+169.22,172.24," Okay, can you at least tilt her head back to open her airway?",Speaker 1,call_42.mp3,Description
+172.84,173.86, Can you do that?,Speaker 0,call_42.mp3,Description
+174.24,174.46, Yeah.,Speaker 0,call_42.mp3,Description
+174.56,177.18," Okay, I want you to put one hand on her forehead.",Speaker 0,call_42.mp3,Description
+177.92,178.44, Uh-huh.,Speaker 1,call_42.mp3,Description
+179.70000000000002,185.58," Okay, I want you to put your other hand underneath her chin.",Speaker 1,call_42.mp3,Description
+186.46,188.1," Okay, you have to give me a second.",Speaker 0,call_42.mp3,Description
+188.34,190.94," Okay, kneel down beside her.",Speaker 0,call_42.mp3,Description
+191.68,193.5," Kneel down beside the child, okay?",Speaker 1,call_42.mp3,Description
+193.88,194.36, Okay.,Speaker 1,call_42.mp3,Description
+195.04,196.44, She's not a little child.,Speaker 1,call_42.mp3,Description
+196.54,197.22, She's like 13.,Speaker 0,call_42.mp3,Description
+197.36,198.1," Okay, that's fine.",Speaker 0,call_42.mp3,Resolution
+198.24,198.72, That's fine.,Speaker 0,call_42.mp3,Description
+199.08,200.38, Kneel down beside her.,Speaker 0,call_42.mp3,Description
+200.9,202.24," Okay, give me one second.",Speaker 0,call_42.mp3,Call Introduction
+202.4,204.16, I really have to get you somebody.,Speaker 1,call_42.mp3,Description
+206.16,209.36," I can give you instructions, ma'am, if you can't find anybody.",Speaker 1,call_42.mp3,Description
+209.56,209.7, Okay.,Speaker 0,call_42.mp3,Description
+210.64,212.8," We can help the child together, okay?",Speaker 0,call_42.mp3,Description
+214.34000000000003,214.86, Yes.,Speaker 1,call_42.mp3,Description
+217.32,218.42, What is your name?,Speaker 0,call_42.mp3,Description
+219.16000000000005,219.68, Ecom.,Speaker 1,call_42.mp3,Description
+219.96,220.48, Ecom?,Speaker 0,call_42.mp3,Description
+220.76,222.76," Yeah, this is really a nightmare.",Speaker 0,call_42.mp3,Description
+223.38,223.82, I'm sorry.,Speaker 0,call_42.mp3,Description
+224.2,224.48, I'm sorry.,Speaker 1,call_42.mp3,Description
+227.5,229.36, Can you do this for her?,Speaker 1,call_42.mp3,Description
+229.42,232.46, Can you help tilt her head open so she can get some air?,Speaker 0,call_42.mp3,Description
+232.94,237.5," Yeah, I already, she can get air because she's laying flat on her head,",Speaker 0,call_42.mp3,Description
+237.66,239.34, and she can definitely get it.,Speaker 0,call_42.mp3,Description
+239.56,242.34," Okay, but I need for you to do a head tilt on her.",Speaker 1,call_42.mp3,Description
+243.52,244.5, Is she breathing?,Speaker 1,call_42.mp3,Description
+246.18,247.48, Look at her chest.,Speaker 0,call_42.mp3,Description
+247.56,248.22, Is she breathing?,Speaker 0,call_42.mp3,Description
+249.02,250.38," Yeah, I think she was, yeah.",Speaker 1,call_42.mp3,Description
+250.46,251.48, She is breathing.,Speaker 1,call_42.mp3,Description
+251.62,252.38, She is breathing?,Speaker 1,call_42.mp3,Description
+252.66,253.1, Yeah.,Speaker 1,call_42.mp3,Description
+253.28,255.6," Okay, you can see her chest rising and falling?",Speaker 1,call_42.mp3,Description
+256.06,256.5, Yeah.,Speaker 1,call_42.mp3,Description
+257.5,259.56, Are you with her right now?,Speaker 0,call_42.mp3,Description
+260.26,260.7, Yeah.,Speaker 0,call_42.mp3,Description
+263.48,264.48," Oh, my God.",Speaker 1,call_42.mp3,Description
+264.7,266.14, This is not how I'm .,Speaker 0,call_42.mp3,Description
+266.84000000000003,268.66, What is her coloring like?,Speaker 0,call_42.mp3,Description
+269.56,272.56, What is the color in her face and her lips?,Speaker 0,call_42.mp3,Description
+273.14,274.58," No, her lips is regular.",Speaker 1,call_42.mp3,Description
+274.68,276.64, Everything about her is regular.,Speaker 1,call_42.mp3,Description
+276.88,277.9," Okay, but she's still unconscious?",Unknown,call_42.mp3,Description
+278.64,279.06, Yeah.,Unknown,call_42.mp3,Description
+282.28,284.48, Is the help going to get here anytime soon?,Unknown,call_42.mp3,Description
+284.48,285.78," Yes, they are on their way.",Unknown,call_42.mp3,Description
+286.54,287.9," Okay, but I want to make sure.",Unknown,call_42.mp3,Description
+287.98,289.34," She is breathing though, right?",Unknown,call_42.mp3,Description
+289.86,291.2, Is she breathing normally?,Unknown,call_42.mp3,Description
+291.88,294.2," No, she's not breathing normally.",Unknown,call_42.mp3,Description
+294.3,296.9," Okay, okay, slow down, slow down.",Unknown,call_42.mp3,Description
+296.98,298.78, It described to me how she is breathing.,Unknown,call_42.mp3,Description
+300.74,302.64, Can you describe to me how she's breathing?,Unknown,call_42.mp3,Description
+302.74,303.78, Is it shallow breathing?,Unknown,call_42.mp3,Description
+303.9,304.88, Is she breathing hard?,Unknown,call_42.mp3,Description
+305.02,306.8, Is she gasping for air?,Unknown,call_42.mp3,Description
+307.64000000000004,311.98," I think I'm really, yeah, she is gasping for air.",Unknown,call_42.mp3,Description
+312.12,312.88, She's gasping?,Unknown,call_42.mp3,Description
+313.12,313.58, Yeah.,Unknown,call_42.mp3,Description
+313.66,314.54, Right now she is?,Unknown,call_42.mp3,Description
+315.16,315.62, Yeah.,Unknown,call_42.mp3,Description
+322.64000000000004,324.92," Okay, are you sitting down anywhere?",Unknown,call_42.mp3,Description

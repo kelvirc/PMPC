@@ -1,0 +1,44 @@
+Start Time (s),End Time (s),Text,Speaker,file_name,flow_label
+0.0,1.26, Hello?,Speaker 1,call_483.mp3,Call Introduction
+4.940000000000002,6.66," 911, where is your emergency?",Speaker 1,call_483.mp3,Call Introduction
+7.32,9.0," Um, my brother...",Speaker 0,call_483.mp3,Description
+11.380000000000004,12.14, Hello?,Speaker 0,call_483.mp3,Description
+12.94,14.8, My brother is drowning.,Speaker 0,call_483.mp3,Description
+15.44,16.52, Where are you at?,Speaker 0,call_483.mp3,Description
+16.98,20.38," Um, at the pond on Washburn.",Speaker 0,call_483.mp3,Description
+21.1,24.82, At the pond on Washburn? Do you know where on Washburn?,Speaker 0,call_483.mp3,Description
+25.3,26.06, No.,Speaker 0,call_483.mp3,Description
+30.0,30.62, It's 911!,Speaker 0,call_483.mp3,Description
+33.0,36.04, Do you have any of your parents around?,Speaker 0,call_483.mp3,Description
+36.3,36.76, No.,Speaker 1,call_483.mp3,Description
+38.06,38.2, No.,Speaker 1,call_483.mp3,Description
+40.66,43.3," Okay, I'm trying to find where you're at right now, okay?",Speaker 0,call_483.mp3,Description
+43.82,44.3, Okay.,Speaker 1,call_483.mp3,Description
+44.32,45.16, How old are you?,Speaker 1,call_483.mp3,Description
+46.2,47.08, I'm seven.,Speaker 0,call_483.mp3,Description
+47.5,52.02, You're seven? Do you know what the name of the park is where you're at? Central Park?,Speaker 0,call_483.mp3,Description
+52.08,52.38, No.,Speaker 0,call_483.mp3,Description
+52.6,53.2," Yeah, I'll talk to them.",Speaker 0,call_483.mp3,Description
+54.84,55.32, Hello?,Speaker 0,call_483.mp3,Description
+55.62,57.02," Hello, where are you guys at?",Speaker 0,call_483.mp3,Description
+57.620000000000005,59.7, We're at the community center.,Speaker 0,call_483.mp3,Description
+60.0,61.44, What community center?,Speaker 0,call_483.mp3,Description
+62.38,63.8, He's following the water.,Speaker 0,call_483.mp3,Description
+63.94,65.66," Okay, where on Central Park?",Speaker 0,call_483.mp3,Description
+65.96,67.38," No, he's over by...",Speaker 0,call_483.mp3,Description
+70.6,71.16, Okay.,Speaker 0,call_483.mp3,Description
+71.26,72.1, He's following the water.,Speaker 1,call_483.mp3,Description
+73.96,74.52, Okay.,Speaker 0,call_483.mp3,Description
+74.66,75.2, I'm worried.,Speaker 0,call_483.mp3,Description
+76.1,76.94, He's yelling!,Speaker 0,call_483.mp3,Description
+77.98,82.1," Okay, I've got him on the way, okay? I've got him on the way, alright?",Speaker 0,call_483.mp3,Description
+82.6,84.94, Alright. He's crying.,Speaker 0,call_483.mp3,Description
+85.62,88.0," Okay, you're on Clay Street?",Speaker 0,call_483.mp3,Description
+88.64,89.98," Yeah. No, not Clay Street.",Speaker 1,call_483.mp3,Description
+90.58,90.9, Okay.,Speaker 0,call_483.mp3,Description
+91.0,91.52, I don't know.,Speaker 0,call_483.mp3,Description
+91.98000000000002,93.24," Okay, I've got him on the way.",Unknown,call_483.mp3,Resolution
+93.24,94.68, He's on the way. He's trying to get somebody.,Unknown,call_483.mp3,Description
+94.88,96.5," Okay, we've got him on the way, alright?",Unknown,call_483.mp3,Resolution
+97.64,97.96, Alright.,Unknown,call_483.mp3,Call Deposition
+98.28,99.1, Thank you. Bye-bye.,Unknown,call_483.mp3,Call Deposition

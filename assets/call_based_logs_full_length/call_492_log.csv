@@ -1,0 +1,23 @@
+Start Time (s),End Time (s),Text,Speaker,file_name,flow_label
+5.079999999999999,6.58," 911, where is your emergency?",Speaker 0,call_492.mp3,Call Introduction
+6.68,8.74, I've got a fire at Silver Eagle Refining 2375.,Speaker 0,call_492.mp3,Description
+8.74,11.4," Wait, hold on just a second. Slow down. What's the address?",Speaker 0,call_492.mp3,Description
+12.260000000000002,15.84, 2355 South 1100 West Woods Cross. I've got a tank on fire.,Speaker 0,call_492.mp3,Description
+16.82,18.28, Like a tank or truck?,Speaker 0,call_492.mp3,Description
+18.74,22.02," No, a tank. A petroleum tank. A bad one.",Speaker 0,call_492.mp3,Description
+23.58,24.78, We're going to need foam.,Speaker 0,call_492.mp3,Description
+25.02,25.9, Petroleum tank?,Speaker 0,call_492.mp3,Description
+26.48,28.3, Just a gas wing tank.,Speaker 0,call_492.mp3,Description
+30.26,30.92, That'll do.,Speaker 0,call_492.mp3,Description
+31.04,31.7, Everybody okay?,Speaker 0,call_492.mp3,Description
+31.98,33.44, That's a V-Candy in the building.,Speaker 0,call_492.mp3,Description
+33.6,38.96, Okay. What? Like a... Tell me what a petroleum tank is.,Speaker 0,call_492.mp3,Description
+39.36,40.8, It's a gasoline tank.,Speaker 0,call_492.mp3,Description
+41.08,43.36, A gasoline tank on what? Just by itself?,Speaker 0,call_492.mp3,Description
+43.76,44.74, It's a tank farm.,Speaker 0,call_492.mp3,Description
+48.48,49.96, Okay. Is it by any structures?,Speaker 0,call_492.mp3,Description
+50.78,54.66, Yes. I've got real cars. I've got oil tanks all the way around.,Speaker 0,call_492.mp3,Description
+54.68,58.86, Okay. All right. I'll get them on the way. 2355 South 1100 West?,Speaker 0,call_492.mp3,Resolution
+58.92,59.58, Woods Cross.,Speaker 0,call_492.mp3,Description
+60.0,60.66, Woods Cross.,Speaker 0,call_492.mp3,Call Introduction
+60.74,62.82, Okay. All right. Get everybody away.,Speaker 0,call_492.mp3,Resolution

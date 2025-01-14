@@ -1,0 +1,71 @@
+Start Time (s),End Time (s),Text,Speaker,file_name,flow_label
+27.040000000000003,28.9," 911, can you hold one second, please?",Speaker 0,call_507.mp3,Call Introduction
+28.9,36.86, I can't. It's an emergency. 911 emergency. 340 Doyle. And on file.,Speaker 0,call_507.mp3,Description
+53.88,56.04, Thanks for holding 911. Where's your emergency?,Speaker 0,call_507.mp3,Call Introduction
+56.14,57.0," 911, I can't.",Speaker 0,call_507.mp3,Call Introduction
+57.28,57.86, Hello?,Speaker 0,call_507.mp3,Call Introduction
+58.18,58.76, 911.,Speaker 0,call_507.mp3,Call Introduction
+58.9,64.62," 911, the bed is on fire. 340 Doyle. 340 Doyle.",Speaker 0,call_507.mp3,Description
+64.98,66.46, What township or borough are you in?,Speaker 0,call_507.mp3,Description
+67.46,68.26, 340 Doyle.,Speaker 0,call_507.mp3,Description
+68.3,70.38, What township or borough are you in?,Speaker 0,call_507.mp3,Description
+70.5,71.16, Town borough.,Speaker 0,call_507.mp3,Description
+71.54,72.32, What borough?,Speaker 0,call_507.mp3,Description
+73.0,73.6, Doyle Town.,Speaker 0,call_507.mp3,Description
+76.74,78.08, Are you still in the house?,Speaker 0,call_507.mp3,Description
+78.72,79.12, What?,Speaker 0,call_507.mp3,Description
+80.12,81.46, Are you still in the house?,Speaker 0,call_507.mp3,Description
+81.64,81.82, Yes.,Speaker 0,call_507.mp3,Description
+82.02,83.72," All right. Well, you want to get out of the house?",Speaker 0,call_507.mp3,Description
+83.98,86.18, No. I'm disabled.,Speaker 0,call_507.mp3,Description
+89.82,91.92, The bed is fully in flames.,Speaker 0,call_507.mp3,Description
+93.0,94.08, All right.,Speaker 0,call_507.mp3,Call Deposition
+94.08,94.86, Bye-bye.,Speaker 0,call_507.mp3,Call Deposition
+96.74,97.96," Ma'am, you still there?",Speaker 0,call_507.mp3,Description
+101.5,102.18, Hello?,Speaker 0,call_507.mp3,Call Introduction
+108.16,108.84, Hello?,Speaker 0,call_507.mp3,Call Introduction
+108.84,108.84,,Speaker 0,call_507.mp3,No Voice Detected
+114.78,114.78,,Speaker 0,call_507.mp3,No Voice Detected
+115.04,115.72, Hello?,Speaker 0,call_507.mp3,Call Introduction
+116.02,116.18, Hello?,Speaker 0,call_507.mp3,Call Introduction
+116.18,116.3, Hello?,Speaker 0,call_507.mp3,Call Introduction
+117.58,118.26, Hello?,Speaker 0,call_507.mp3,Call Introduction
+118.66,118.88, Hello?,Speaker 0,call_507.mp3,Call Introduction
+118.88,118.88,,Speaker 0,call_507.mp3,No Voice Detected
+118.88,118.88,,Speaker 0,call_507.mp3,No Voice Detected
+118.88,118.88,,Speaker 0,call_507.mp3,No Voice Detected
+118.88,118.88,,Speaker 0,call_507.mp3,No Voice Detected
+118.88,118.88,,Speaker 0,call_507.mp3,No Voice Detected
+118.88,118.88,,Speaker 0,call_507.mp3,No Voice Detected
+118.88,118.88,,Speaker 0,call_507.mp3,No Voice Detected
+118.88,118.88,,Speaker 0,call_507.mp3,No Voice Detected
+118.88,118.88,,Speaker 0,call_507.mp3,No Voice Detected
+118.88,119.74, Hello.,Speaker 0,call_507.mp3,Description
+126.7,128.1, Hello?,Speaker 0,call_507.mp3,Description
+131.04,131.04,,Speaker 0,call_507.mp3,No Voice Detected
+133.94,137.0, Are you still in the house?,Speaker 0,call_507.mp3,Description
+137.14,137.84, Hello?,Unknown,call_507.mp3,Call Introduction
+137.94,138.72, Hello?,Unknown,call_507.mp3,Call Introduction
+140.26,140.26,,Unknown,call_507.mp3,No Voice Detected
+140.36,140.42, Hello?,Unknown,call_507.mp3,Call Introduction
+140.42,140.42,,Unknown,call_507.mp3,No Voice Detected
+140.8,142.2, Hello?,Unknown,call_507.mp3,Call Introduction
+142.96,143.62, Hello?,Unknown,call_507.mp3,Call Introduction
+149.0,150.28," 911, where's the emergency?",Unknown,call_507.mp3,Call Introduction
+152.08,152.56, Hello?,Unknown,call_507.mp3,Call Introduction
+156.86,161.36," Hey, call.",Unknown,call_507.mp3,Call Introduction
+161.5,162.48," 911, where's the emergency?",Unknown,call_507.mp3,Call Introduction
+164.28,165.56," That's real, whatever.",Unknown,call_507.mp3,Description
+166.14,168.38," The line is open, but I can't hear anything.",Unknown,call_507.mp3,Description
+168.44,170.16, I can hang up and try to call you back.,Unknown,call_507.mp3,Description
+170.46,171.72, I can still hear you.,Unknown,call_507.mp3,Description
+171.88,176.78," In reality, it's being, I'm on the call, but I can't hear anything at all.",Unknown,call_507.mp3,Description
+176.78,185.18," Like, it was so, that's why I don't know if I can hang up or just stay here and see you, call back to you.",Unknown,call_507.mp3,Description
+185.72000000000003,187.94, But it sounded like she was trying to put the fire out a bit.,Unknown,call_507.mp3,Description
+190.8,191.16, Sir.,Unknown,call_507.mp3,Description
+192.7,193.06, Sir.,Unknown,call_507.mp3,Description
+193.52,193.66, Sir.,Unknown,call_507.mp3,Description
+207.3,208.7, Alright.,Unknown,call_507.mp3,Call Deposition
+209.4,209.62, Hey.,Unknown,call_507.mp3,Call Introduction
+210.58,210.6, Hey.,Unknown,call_507.mp3,Call Introduction
+215.66,217.06, Hey.,Unknown,call_507.mp3,Call Introduction

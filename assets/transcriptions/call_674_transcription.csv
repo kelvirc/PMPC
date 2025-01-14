@@ -1,0 +1,41 @@
+Start Time (s),End Time (s),Text,Speaker
+1.7600000000000002,2.68," 911, it's an emergency.",Speaker 1
+4.34,8.78," Yeah, I was on a 429, get off onto Plant Street.",Speaker 1
+9.3,10.32, I went off the road.,Speaker 1
+10.42,11.82, I'm in a retention pond right now.,Speaker 0
+12.04,13.06, You're in the retention pond?,Speaker 0
+13.620000000000001,13.96, Yeah.,Speaker 1
+14.28,14.62, Okay.,Speaker 1
+14.76,15.56, What city are you in?,Speaker 1
+15.58,16.68, I don't know if I'm at the ground.,Speaker 1
+17.2,19.08, I don't know if I'm going to sink or nothing right now.,Speaker 1
+19.12,20.24, I don't see a truck sinking or anything.,Speaker 0
+20.5,22.68," All right, let me get your paramedics to come hang up, okay?",Speaker 0
+23.3,23.8, All right.,Speaker 0
+37.400000000000006,39.46," Fire Rescue, what's the address of the emergency?",Speaker 1
+39.84,40.34, Just what he's saying.,Speaker 1
+41.38,42.54," I'm not sure, ma'am.",Speaker 0
+43.94,45.04, I'm at 429.,Speaker 1
+46.760000000000005,47.2, 429.,Speaker 0
+47.2,48.62," On the 429, getting off Plant Street.",Speaker 0
+50.02,50.94, 429 and Plant?,Speaker 0
+51.64,53.04," Yeah, getting off of Plant Street.",Speaker 0
+53.32,54.62, What direction are you heading on?,Speaker 0
+55.08,57.72," Well, I was getting off the 429.",Speaker 1
+58.400000000000006,59.98," I know, but are you going to get off?",Speaker 1
+59.98,60.6, Are you going southbound?,Speaker 1
+61.36,61.8, Yeah.,Speaker 1
+61.96,65.62, Are you in Ocoee or Winter Garden?,Speaker 1
+66.24000000000001,67.02, Winter Garden.,Speaker 0
+70.0,71.54," Okay, and what's going on there?",Speaker 0
+72.14,74.74," Well, I went off the road right now.",Speaker 0
+75.48,76.72, I'm in the retention pond.,Speaker 0
+79.24000000000001,80.28, You're in the vehicle with?,Unknown
+80.64,81.08, Yeah.,Unknown
+81.46,84.76, I don't know if my truck's going to sink into the water or not.,Unknown
+85.08,86.0, Are you off?,Unknown
+86.96000000000001,88.64, I'm trying to get out right now.,Unknown
+90.33999999999999,91.56," Okay, hold on a second.",Unknown
+91.7,94.36, You said East Plant Street and State Road 429?,Unknown
+95.12,95.6, Yeah.,Unknown
+98.66,100.38," Okay, which direction were you going?",Unknown
